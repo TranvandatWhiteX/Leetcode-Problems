@@ -21,9 +21,10 @@ public class Main {
 //        vector.add("Tran Dat");
 //        vector.add("Ngo Thao");
 //        System.out.println(vector.get(0));
-        SortedSet<String> strings = new TreeSet<>();
-        strings.add("Ha Noi");
-        strings.add("Can Tho");
-        strings.forEach(System.out::println);
+//        SortedSet<String> strings = new TreeSet<>();
+//        strings.add("Ha Noi");
+//        strings.add("Can Tho");
+//        strings.forEach(System.out::println);
+        System.out.println("Hello bro");
     }
 }
